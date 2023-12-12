@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2305df5e.css",
+    "main.css": "/static/css/main.584ff79e.css",
     "main.js": "/static/js/main.35c84157.js",
     "static/media/furrywall.mp4": "/static/media/furrywall.cb528c24b3e1bd3615f6.mp4",
     "static/media/Rex.png": "/static/media/Rex.f593756b9510fddf200b.png",
     "static/media/logo.png": "/static/media/logo.138216080fe9a033beaf.png",
     "index.html": "/index.html",
-    "main.2305df5e.css.map": "/static/css/main.2305df5e.css.map",
+    "main.584ff79e.css.map": "/static/css/main.584ff79e.css.map",
     "main.35c84157.js.map": "/static/js/main.35c84157.js.map"
   },
   "entrypoints": [
-    "static/css/main.2305df5e.css",
+    "static/css/main.584ff79e.css",
     "static/js/main.35c84157.js"
   ]
 }
